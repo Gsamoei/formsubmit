@@ -1,0 +1,16 @@
+#submit {
+    color: blue;
+}
+
+body {
+    background-image: url(images/005.jpg);
+    background-size: cover;
+    align-content: center;
+    vertical-align: middle;
+ 
+}
+.rows {
+    float: left;
+    width: 280px;
+    margin: 10px;
+}
